@@ -1,0 +1,3 @@
+vlm_model,mode,video,TRUE,pred,correct,per_video_f1,closest,score_meeting,score_phone_use,score_eating_drinking,score_video_call,score_using_computer,llm_pred_raw,raw_classifier_output,n_frames,total_caption_time_s,avg_caption_time_s,classifier_time_s,total_video_time_s
+qwen2vl_2b,stm,main_activity.mp4,using_computer,using_computer,1,1,using_computer,0,1,14,0,26,using_computer,label=using_computer,30,2742.735114,91.424504,21.455481,2764.192425
+qwen2vl_2b,none,main_activity.mp4,using_computer,using_computer,1,1,using_computer,0,1,42,0,84,using_computer,label=using_computer,30,2545.310056,84.843669,18.099368,2563.411129

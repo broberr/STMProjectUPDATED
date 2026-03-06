@@ -1,0 +1,1 @@
+McNemar exact test (STM vs NONE): n01=0, n10=0, p=1.000000

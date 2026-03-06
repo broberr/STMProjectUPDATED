@@ -1,0 +1,3 @@
+vlm_model,mode,video,TRUE,pred,correct,per_video_f1,closest,score_meeting,score_phone_use,score_eating_drinking,score_video_call,score_using_computer,llm_pred_raw,raw_classifier_output,n_frames,total_caption_time_s,avg_caption_time_s,classifier_time_s,total_video_time_s
+smolvlm2_2b,stm,main_activity.mp4,using_computer,eating_drinking,0,0,eating_drinking,0,0,8,2,7,eating_drinking,"label=eating_drinking (but with high confidence, this person is likely drinking rather than eating based on the observations)",30,823.644062,27.454802,10.892067,834.537593
+smolvlm2_2b,none,main_activity.mp4,using_computer,using_computer,1,1,using_computer,0,0,8,6,23,using_computer,label=using_computer,30,908.36335,30.278778,9.739537,918.104426

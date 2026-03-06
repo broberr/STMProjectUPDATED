@@ -1,0 +1,3 @@
+vlm_model,mode,n,macro_f1,mean_per_video_f1,std_per_video_f1
+internvl2_2b,stm,17,0.242857143,0.411764706,0.492152957
+internvl2_2b,none,17,0.255433455,0.411764706,0.492152957
